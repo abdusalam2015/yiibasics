@@ -21,7 +21,9 @@
                 "shasum": null
             },
             "require": {
-                "bower-asset/jquery": ">=1.9.1,<4.0"
+                "bower-asset/jquery": ">=1.9.1,<4.0",
+                "fxp/composer-asset-plugin": "*",
+                "ext-gd": "*"
             },
             "type": "bower-asset",
             "license": [
